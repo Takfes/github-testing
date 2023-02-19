@@ -3,3 +3,4 @@ gurobipy
 numpy
 tqdm
 sklearn
+matplotlib
