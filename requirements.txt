@@ -5,4 +5,3 @@ tqdm
 lazypredict
 sklearn
 matplotlib
-lazypredict
